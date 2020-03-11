@@ -1,0 +1,9 @@
+[19-Jul-2019 08:48:46 UTC] PHP Notice:  Undefined index: mobile in /home/shohozsc/public_html/sazid/test.php on line 3
+[19-Jul-2019 08:48:46 UTC] PHP Stack trace:
+[19-Jul-2019 08:48:46 UTC] PHP   1. {main}() /home/shohozsc/public_html/sazid/test.php:0
+[19-Jul-2019 08:48:48 UTC] PHP Notice:  Undefined index: mobile in /home/shohozsc/public_html/sazid/test.php on line 3
+[19-Jul-2019 08:48:48 UTC] PHP Stack trace:
+[19-Jul-2019 08:48:48 UTC] PHP   1. {main}() /home/shohozsc/public_html/sazid/test.php:0
+[19-Jul-2019 08:52:59 UTC] PHP Notice:  Undefined index: mobile in /home/shohozsc/public_html/sazid/test.php on line 3
+[19-Jul-2019 08:53:01 UTC] PHP Notice:  Undefined index: mobile in /home/shohozsc/public_html/sazid/test.php on line 3
+[19-Jul-2019 08:53:03 UTC] PHP Notice:  Undefined index: mobile in /home/shohozsc/public_html/sazid/test.php on line 3

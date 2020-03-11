@@ -1,0 +1,1 @@
+Congratulation!Your School is Sucessfully Approved. Now you can login to your panel

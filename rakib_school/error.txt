@@ -1,0 +1,5 @@
+CassException: Format of the address is invalid in /home/sgcadmin/public_html/rakib_school/bdapps_cass_sdk.php:600
+Stack trace:
+#0 /home/sgcadmin/public_html/rakib_school/bdapps_cass_sdk.php(550): Subscription->handleResponse(Object(stdClass))
+#1 /home/sgcadmin/public_html/rakib_school/check_student.php(60): Subscription->getStatus('tel:MmQ2NWY5YmI...')
+#2 {main}
